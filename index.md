@@ -14,10 +14,9 @@ sections:
   - section_id: features
     type: section_features
     bg: gray
-    title: Features
+    title: Studiare Ingengegneria a Firenze!
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Il Coordinamento delle attività didattiche dei Corsi di Laurea Triennale e Magistrale e dei Relativi Servizi è affidato alla Scuola. La Scuola di Ingegneria coordina corsi di laurea triennale, magistrale, dottorato e corsi post laurea..
     featureslist:
       - title: The Best Feature of Your Services
         image: images/feature1.png
