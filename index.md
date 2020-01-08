@@ -18,7 +18,7 @@ sections:
     subtitle: >-
       Il Coordinamento delle attività didattiche dei Corsi di Laurea Triennale e Magistrale e dei Relativi Servizi è affidato alla Scuola. La Scuola di Ingegneria coordina corsi di laurea triennale, magistrale, dottorato e corsi post laurea..
     featureslist:
-      - title: The Best Feature of Your Services
+      - title: Area dell'Informazione
         image: images/feature1.png
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
@@ -27,7 +27,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-      - title: Awesome Feature of Your Services
+      - title: Area Civile, Edile ed Ambientale
         image: images/feature2.png
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
@@ -36,7 +36,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-      - title: Cool Feature of Your Services
+      - title: Area Industriale
         image: images/feature3.png
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
