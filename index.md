@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image: images/6774558732_6e5bb868a7_c.jpg
-    title: This Is A Big Hero Headline
+    title: Ingegneria Firenze
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site. 
