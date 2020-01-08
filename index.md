@@ -21,9 +21,9 @@ sections:
       - title: Area dell'Informazione
         image: images/feature1.png
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          Il DINFO è il dipartimento dell’Università di Firenze che tratta dell’Informazione con il metodo dell’Ingegneria. Il DINFO offre 2 lauree triennali e 5 lauree magistrali, 2 programmi di dottorato, e una media di oltre 100 contratti di ricerca post laurea e post dottorato, sul tema dell’Ingegneria dell’Informazione.
+
+Topics: Internet of things, Cyber-Physical systems, Industry 4.0,Smart cities, Big data and machine learning....
         actions:
           - label: Learn More
             url: /features
