@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/bulb.png
     title: Ingegneria Firenze
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
