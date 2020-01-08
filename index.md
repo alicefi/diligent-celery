@@ -6,8 +6,7 @@ sections:
     image: images/bulb.png
     title: Ingegneria Firenze
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      La Scuola di Ingegneria dell’Università degli Studi di Firenze è attiva a seguito della Riforma Universitaria L. 240/2010, a partire dal 1 marzo 2013 e subentra al-la Facoltà di Ingegneria nel coordinamento delle at-tività didattiche dei Corsi di Laurea e Corsi di Laurea Magistrale, nonché nella gestione dei relativi servizi. 
     actions:
       - label: Learn More
         url: /features
