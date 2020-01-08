@@ -6,7 +6,7 @@ sections:
     image: images/bulb.png
     title: Ingegneria Firenze
     content: >-
-      La Scuola di Ingegneria dell’Università degli Studi di Firenze è attiva a seguito della Riforma Universitaria L. 240/2010, a partire dal 1 marzo 2013 e subentra al-la Facoltà di Ingegneria nel coordinamento delle at-tività didattiche dei Corsi di Laurea e Corsi di Laurea Magistrale, nonché nella gestione dei relativi servizi. 
+      La Scuola di Ingegneria dell’Università degli Studi di Firenze è attiva a seguito della Riforma Universitaria L. 240/2010, a partire dal 1 marzo 2013 e subentra alla Facoltà di Ingegneria nel coordinamento delle attività didattiche dei Corsi di Laurea e Corsi di Laurea Magistrale, nonché nella gestione dei relativi servizi. 
     actions:
       - label: Learn More
         url: /features
@@ -15,7 +15,7 @@ sections:
     bg: gray
     title: Studiare Ingengegneria a Firenze!
     subtitle: >-
-      Il Coordinamento delle attività didattiche dei Corsi di Laurea Triennale e Magistrale e dei Relativi Servizi è affidato alla Scuola. La Scuola di Ingegneria coordina corsi di laurea triennale, magistrale, dottorato e corsi post laurea..
+      Il Coordinamento delle attività didattiche dei Corsi di Laurea Triennale e Magistrale e dei Relativi Servizi è affidato alla Scuola. La Scuola di Ingegneria coordina corsi di laurea triennale, magistrale, dottorato e corsi post laurea.
     featureslist:
       - title: Area dell'Informazione
         image: images/feature1.png
